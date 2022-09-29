@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WXsrLxEVqmW+6topvtl/nIpB5TxbaqfhJtF/EKA1L4RkrcvhGaFqFU8PFyM+eGcR59k2sN8rxecs1psfkBySfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Benjamin\\source\\repos\\ImageClassification\\ImageClassification.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Benjamin\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Benjamin\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
